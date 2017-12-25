@@ -5,7 +5,7 @@ The coins tweeted by McAfee doubles their values in a matter of minutes, so a bo
 
 This bot doesn't require your twitter developer keys as it uses the twitter's frontend API with some HTML parsing to get the tweets.
 
-Only your Bittrex API keys are needed. You can get them here "https://bittrex.com/Manage#sectionApi". Just Generate a new key will all the 4 permissions as 'on'.
+Only your Bittrex API keys are needed. You can get them here "https://bittrex.com/Manage#sectionApi". Just Generate a new key with the first 3 permissions as 'on'.
 
 The only thing you need to change to use this bot is in `src/mcafee.py`. Enter your own bittrex API keys in the place of `<API KEY>` and `<API SECRET>`.
 
