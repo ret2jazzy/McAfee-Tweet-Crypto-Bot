@@ -1,7 +1,7 @@
 # McAfee-Tweet-Crypto-Bot
 A simple python bot which read McAfee's tweets for the "coin of the day", buys it at +3% of current price and sells at 2x
 
-The coins tweeted by McAfee doubles their values in a matter of minutes, so a bot is definately needed for that as people just pounce on his coins.
+The crypto coins tweeted by McAfee doubles their values in a matter of minutes, so a bot is definately needed for thatz as people just pounce on his coins.
 
 This bot doesn't require your twitter developer keys as it uses the twitter's frontend API with some HTML parsing to get the tweets.
 
